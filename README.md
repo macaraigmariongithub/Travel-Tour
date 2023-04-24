@@ -5,5 +5,5 @@ https://user-images.githubusercontent.com/118321432/222311213-7b20c551-769c-4dee
 
 
 
-sample Travel&Tour website using HTML,CSS and JavaScript. 
+sample Travel&Tour website using HTML,CSS, JavaScript and PHP
 
